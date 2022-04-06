@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fm-player-app",
+    "slug": "fm-player-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fm-player-app"
+}
