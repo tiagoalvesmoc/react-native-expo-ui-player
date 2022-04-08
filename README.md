@@ -9,7 +9,7 @@
  
 
   <a href="https://example.com/">
-    <img src= "https://github.com/tiagoalvesmoc/marvel-app-react-native/blob/main/src/assets/video3.gif" alt="Logo" width=280 height=680>
+    <img src= "https://github.com/tiagoalvesmoc/react-native-expo-ui-player/blob/main/Screenshot_20220408-193835.png" alt="Logo" width=280 height=680>
   </a>
 
  
